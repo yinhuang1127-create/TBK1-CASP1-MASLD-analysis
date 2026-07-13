@@ -1,5 +1,7 @@
 # TBK1-CASP1-MASLD-analysis
-R scripts for single-nucleus RNA-sequencing and spatial transcriptomic analyses of TBK1/CASP1-associated Kupffer-cell states in MASLD.
+
+R scripts for processing, analysis and visualization of publicly available single-nucleus RNA-sequencing and spatial transcriptomic datasets investigating TBK1/CASP1-associated Kupffer-cell states in MASLD.
+
 ## Data sources
 
 | Dataset | Platform | Accession |
@@ -9,6 +11,7 @@ R scripts for single-nucleus RNA-sequencing and spatial transcriptomic analyses 
 
 ## Repository structure
 
+```text
 scripts/
 ├── single_nucleus/
 │   └── R scripts for snRNA-seq analysis
